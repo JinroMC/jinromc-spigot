@@ -1,0 +1,7 @@
+name: JinroMC
+version: @version@
+main: me.azurata.jinromc.JinroMC
+api-version: 1.16
+authors: [ azurata ]
+description: A plugin for playing "Are you werewolf?" in Minecraft
+website: https://github.com/JinroMC/jinromc-spigot
